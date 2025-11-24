@@ -14,7 +14,7 @@ Explicit: Clear Functionality: Ability to reset the whole transaction for anothe
 
  Prerequisites 
 
-This application requires only standard Python libraries, mainly **Tkinter.
+This application requires only standard Python libraries, mainly Tkinter.
 
 Requirements: Python 3.x
 
